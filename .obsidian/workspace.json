@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3168533aa735bfa6",
+        "id": "ef3fbd02f8aa5180",
         "type": "tabs",
         "children": [
           {
-            "id": "c0397df0abe79ce5",
+            "id": "a09df8f139fad54c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Frassati/Topics.md",
-                "bFile": "Frassati/Topics.md",
-                "aRef": ""
+                "file": "Frassati/Meeting Notes/April 14th.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Topics  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "April 14th"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -184,28 +184,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c0397df0abe79ce5",
+  "active": "a09df8f139fad54c",
   "lastOpenFiles": [
-    "Frassati/Topics.md",
-    "Frassati/Meeting Notes/March 17th.md",
-    "Frassati/Meeting Notes/February 17th - ☔.md",
+    "Frassati/Meeting Notes/April 14th.md",
+    "Pasted image 20260414091519.png",
+    "April art forum-3-1 (9).png",
+    "Frassati/Meeting Notes/September 2nd.md",
+    "Frassati/Meeting Notes/October 28th.md",
+    "Frassati/Meeting Notes/October 14th.md",
+    "Frassati/Meeting Notes/November 25th.md",
     "Frassati/Meeting Notes/November 11th.md",
+    "Frassati/Meeting Notes/March 17th.md",
+    "Frassati/Topics.md",
+    "Frassati/Meeting Notes/February 17th - ☔.md",
     "Frassati/Meeting Notes/January 6th.md",
     "Frassati/Meeting Notes/July 30th Notes.md",
     "Frassati/The Youth Group.md",
     "Frassati/Trivia Night Key.md",
     "Frassati/slides/README.md",
-    "Frassati/Meeting Notes/October 28th.md",
     "Attachments/Trivia Night.png",
     "Attachments/Trivia Night Flyer 1.pdf",
     "Attachments/Trivia Night 1.png",
@@ -215,8 +222,6 @@
     "Attachments/Still 2025-09-30 155728_2.4.1.png",
     "Attachments/Screenshot 2025-03-05 212224.png",
     "Attachments/Screenshot 2025-01-22 235022.png",
-    "Attachments/Screenshot 2025-01-22 232844.png",
-    "Attachments/sankeymatic_20251125_095037.svg",
     "Attachments",
     "Welcome.md"
   ]

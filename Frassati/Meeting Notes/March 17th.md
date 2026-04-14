@@ -1,7 +1,7 @@
 ---
 theme: serif
-date created: Monday, May 19th 2025, 10:39:09 pm
-date modified: Tuesday, February 24th 2026, 9:25:06 pm
+date created: dimanche, mars 8 2026, 4:22:37 pm
+date modified: mardi, avril 14 2026, 9:07:29 am
 ---
 
 ![[brandmark.png|100]]
